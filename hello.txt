@@ -41,7 +41,7 @@ dff
 
 s
 
-
+new function! from hot fix branch 2
 
 new function!
 new function! from hotfix branch
