@@ -45,3 +45,4 @@ s
 
 new function!
 new function! from master branch
+new function! from hotfix branch
